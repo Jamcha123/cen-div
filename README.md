@@ -2,7 +2,7 @@
 js package to center a div.
 1. install the npm package
   ```
-      npm install cdn-div
+      npm install cen-div
   ```
 2. import the function and add a selector and name
    ```
